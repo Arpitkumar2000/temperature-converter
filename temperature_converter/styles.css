@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(206, 218, 255);
+    margin-bottom: 0px;
+    padding: 5px;
+    
+}
+
+#container{
+    text-align: center;
+    background-color: rgb(159, 181, 246);
+    padding: 50px;
+}
+
+.input-container{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.inp{
+    font-size: 20px;
+    font-weight: 600;
+    height: 35px;
+    text-align: center;
+}
